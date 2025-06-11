@@ -1,827 +1,785 @@
 Shanxi_liantong-组播,#genre#
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.112.11:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.112.11:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.112.11:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.112.11:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.112.11:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.112.11:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.112.11:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://118.79.112.198:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://118.79.112.198:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://118.79.112.198:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://118.79.112.198:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://118.79.112.198:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://118.79.112.198:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://118.79.112.198:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://118.79.112.198:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://118.79.112.198:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://118.79.112.198:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://118.79.112.198:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://118.79.112.198:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://118.79.112.198:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://118.79.112.198:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.113.161:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.113.161:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.113.161:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.113.161:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.113.161:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.113.161:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.113.161:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.113.161:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.113.161:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.113.161:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.113.161:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.113.161:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.113.161:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.113.161:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.113.218:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.113.218:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.113.218:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.113.218:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.113.218:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.113.218:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.113.218:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.114.58:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.114.58:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.114.58:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.114.58:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.114.58:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.114.58:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.114.58:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.114.58:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.114.58:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.114.58:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.114.58:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.114.58:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.114.58:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.114.58:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.114.65:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.114.65:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.114.65:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.114.65:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.114.65:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.114.65:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.114.65:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://118.79.115.19:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://118.79.115.19:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://118.79.115.19:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://118.79.115.19:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://118.79.115.19:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://118.79.115.19:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://118.79.115.19:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://118.79.115.19:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://118.79.115.19:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://118.79.115.19:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://118.79.115.19:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://118.79.115.19:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://118.79.115.19:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://118.79.115.19:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.7.39:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.7.39:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.7.39:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.7.39:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.7.39:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.7.39:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.7.39:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://118.79.7.39:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://118.79.7.39:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://118.79.7.39:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://118.79.7.39:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://118.79.7.39:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://118.79.7.39:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://118.79.7.39:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://124.163.102.111:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://124.163.102.111:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://124.163.102.111:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://124.163.102.111:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://124.163.102.111:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://124.163.102.111:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://124.163.102.111:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://124.163.102.111:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://124.163.102.111:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://124.163.102.111:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://124.163.102.111:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://124.163.102.111:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://124.163.102.111:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://124.163.102.111:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://171.120.201.187:8082/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://171.120.201.187:8082/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://171.120.201.187:8082/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://171.120.201.187:8082/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://171.120.201.187:8082/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://171.120.201.187:8082/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://171.120.201.187:8082/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://171.120.201.187:8084/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://171.120.201.187:8084/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://171.120.201.187:8084/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://171.120.201.187:8084/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://171.120.201.187:8084/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://171.120.201.187:8084/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://171.120.201.187:8084/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://171.120.201.187:8085/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://171.120.201.187:8085/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://171.120.201.187:8085/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://171.120.201.187:8085/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://171.120.201.187:8085/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://171.120.201.187:8085/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://171.120.201.187:8085/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://171.120.66.196:8082/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://171.120.66.196:8082/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://171.120.66.196:8082/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://171.120.66.196:8082/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://171.120.66.196:8082/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://171.120.66.196:8082/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://171.120.66.196:8082/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://171.120.66.49:8082/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://171.120.66.49:8082/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://171.120.66.49:8082/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://171.120.66.49:8082/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://171.120.66.49:8082/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://171.120.66.49:8082/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://171.120.66.49:8082/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.188.159.215:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.188.159.215:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.188.159.215:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.188.159.215:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.188.159.215:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.188.159.215:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.188.159.215:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.188.159.215:6001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.188.159.215:6001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.188.159.215:6001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.188.159.215:6001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.188.159.215:6001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.188.159.215:6001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.188.159.215:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://183.188.197.67:6000/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://183.188.197.67:6000/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://183.188.197.67:6000/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://183.188.197.67:6000/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://183.188.197.67:6000/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://183.188.197.67:6000/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://183.188.197.67:6000/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://183.188.197.67:6001/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://183.188.197.67:6001/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://183.188.197.67:6001/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://183.188.197.67:6001/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://183.188.197.67:6001/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://183.188.197.67:6001/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://183.188.197.67:6001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.188.23.23:6000/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.188.23.23:6000/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.188.23.23:6000/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.188.23.23:6000/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.188.23.23:6000/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.188.23.23:6000/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.188.23.23:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://183.188.28.199:6000/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://183.188.28.199:6000/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://183.188.28.199:6000/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://183.188.28.199:6000/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://183.188.28.199:6000/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://183.188.28.199:6000/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://183.188.28.199:6000/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://183.188.28.199:6001/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://183.188.28.199:6001/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://183.188.28.199:6001/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://183.188.28.199:6001/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://183.188.28.199:6001/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://183.188.28.199:6001/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://183.188.28.199:6001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.137.198:8001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.137.198:8001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.137.198:8001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.137.198:8001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.137.198:8001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.137.198:8001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.137.198:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.137.198:8002/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.137.198:8002/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.137.198:8002/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.137.198:8002/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.137.198:8002/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.137.198:8002/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.137.198:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.137.198:8003/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.137.198:8003/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.137.198:8003/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.137.198:8003/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.137.198:8003/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.137.198:8003/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.137.198:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.137.198:8004/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.137.198:8004/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.137.198:8004/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.137.198:8004/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.137.198:8004/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.137.198:8004/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.137.198:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.137.198:8005/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.137.198:8005/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.137.198:8005/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.137.198:8005/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.137.198:8005/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.137.198:8005/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.137.198:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.150.209:8001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.150.209:8001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.150.209:8001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.150.209:8001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.150.209:8001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.150.209:8001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.150.209:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.150.209:8002/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.150.209:8002/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.150.209:8002/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.150.209:8002/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.150.209:8002/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.150.209:8002/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.150.209:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.150.209:8003/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.150.209:8003/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.150.209:8003/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.150.209:8003/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.150.209:8003/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.150.209:8003/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.150.209:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.150.209:8004/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.150.209:8004/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.150.209:8004/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.150.209:8004/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.150.209:8004/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.150.209:8004/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.150.209:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://183.191.150.209:8005/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://183.191.150.209:8005/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://183.191.150.209:8005/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://183.191.150.209:8005/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://183.191.150.209:8005/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://183.191.150.209:8005/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://183.191.150.209:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://60.223.72.204:8001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://60.223.72.204:8001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://60.223.72.204:8001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://60.223.72.204:8001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://60.223.72.204:8001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://60.223.72.204:8001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://60.223.72.204:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://60.223.72.204:8002/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://60.223.72.204:8002/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://60.223.72.204:8002/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://60.223.72.204:8002/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://60.223.72.204:8002/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://60.223.72.204:8002/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://60.223.72.204:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://60.223.72.204:8003/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://60.223.72.204:8003/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://60.223.72.204:8003/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://60.223.72.204:8003/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://60.223.72.204:8003/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://60.223.72.204:8003/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://60.223.72.204:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://60.223.72.204:8004/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://60.223.72.204:8004/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://60.223.72.204:8004/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://60.223.72.204:8004/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://60.223.72.204:8004/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://60.223.72.204:8004/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://60.223.72.204:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://60.223.72.204:8005/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
 http://60.223.72.204:8005/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
 http://60.223.72.204:8005/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
 http://60.223.72.204:8005/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
 http://60.223.72.204:8005/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://60.223.72.204:8005/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://60.223.72.204:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.238:8001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.238:8001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.238:8001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.238:8001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.238:8001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.238:8001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.238:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.238:8002/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.238:8002/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.238:8002/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.238:8002/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.238:8002/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.238:8002/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.238:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.238:8003/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.238:8003/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.238:8003/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.238:8003/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.238:8003/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.238:8003/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.238:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.238:8004/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.238:8004/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.238:8004/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.238:8004/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.238:8004/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.238:8004/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.238:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.238:8005/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.238:8005/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.238:8005/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.238:8005/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.238:8005/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.238:8005/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.238:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.58:8001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.58:8001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.58:8001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.58:8001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.58:8001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.58:8001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.58:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.58:8002/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.58:8002/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.58:8002/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.58:8002/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.58:8002/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.58:8002/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.58:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.58:8003/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.58:8003/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.58:8003/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.58:8003/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.58:8003/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.58:8003/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.58:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.58:8004/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.58:8004/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.58:8004/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.58:8004/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.58:8004/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.58:8004/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.58:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.58:8005/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.58:8005/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.58:8005/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.58:8005/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.58:8005/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.58:8005/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.58:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.81:8001/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.81:8001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.81:8001/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.81:8001/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.81:8001/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.81:8001/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.81:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.81:8002/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.81:8002/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.81:8002/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.81:8002/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.81:8002/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.81:8002/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.81:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.81:8003/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.81:8003/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.81:8003/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.81:8003/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.81:8003/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.81:8003/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.81:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.81:8004/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.81:8004/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.81:8004/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.81:8004/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.81:8004/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.81:8004/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.81:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://60.223.72.81:8005/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://60.223.72.81:8005/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://60.223.72.81:8005/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://60.223.72.81:8005/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://60.223.72.81:8005/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://60.223.72.81:8005/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://60.223.72.81:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://61.134.200.228:8082/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://61.134.200.228:8082/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://61.134.200.228:8082/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://61.134.200.228:8082/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://61.134.200.228:8082/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://61.134.200.228:8082/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://61.134.200.228:8082/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://61.134.200.228:8083/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://61.134.200.228:8083/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://61.134.200.228:8083/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://61.134.200.228:8083/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://61.134.200.228:8083/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://61.134.200.228:8083/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://61.134.200.228:8083/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://61.134.200.228:8084/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://61.134.200.228:8084/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://61.134.200.228:8084/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://61.134.200.228:8084/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://61.134.200.228:8084/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://61.134.200.228:8084/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://61.134.200.228:8084/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://61.134.200.228:8085/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://61.134.200.228:8085/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://61.134.200.228:8085/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://61.134.200.228:8085/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://61.134.200.228:8085/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://61.134.200.228:8085/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://61.134.200.228:8085/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://61.134.207.248:8082/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://61.134.207.248:8082/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://61.134.207.248:8082/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://61.134.207.248:8082/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://61.134.207.248:8082/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://61.134.207.248:8082/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://61.134.207.248:8082/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://61.134.207.248:8083/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://61.134.207.248:8083/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://61.134.207.248:8083/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://61.134.207.248:8083/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://61.134.207.248:8083/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://61.134.207.248:8083/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://61.134.207.248:8083/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://61.134.207.248:8084/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://61.134.207.248:8084/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://61.134.207.248:8084/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://61.134.207.248:8084/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://61.134.207.248:8084/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://61.134.207.248:8084/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://61.134.207.248:8084/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://61.134.207.248:8085/rtp/226.0.1.85:2001
-#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://61.134.207.248:8085/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://61.134.207.248:8085/rtp/226.0.1.83:2005
-#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://61.134.207.248:8085/rtp/226.0.1.200:2006
-#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://61.134.207.248:8085/rtp/226.0.1.81:2003
-#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://61.134.207.248:8085/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://61.134.207.248:8085/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.209:8001/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.209:8001/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.209:8001/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.209:8001/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.209:8001/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.209:8001/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.209:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.209:8002/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.209:8002/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.209:8002/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.209:8002/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.209:8002/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.209:8002/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.209:8002/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.209:8003/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.209:8003/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.209:8003/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.209:8003/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.209:8003/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.209:8003/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.209:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.209:8004/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.209:8004/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.209:8004/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.209:8004/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.209:8004/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.209:8004/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.209:8004/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.209:8005/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.209:8005/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.209:8005/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.209:8005/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.209:8005/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.209:8005/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.209:8005/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.212:8001/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.212:8001/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.212:8001/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.212:8001/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.212:8001/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.212:8001/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.212:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.212:8002/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.212:8002/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.212:8002/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.212:8002/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.212:8002/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.212:8002/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.212:8002/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.212:8003/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.212:8003/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.212:8003/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.212:8003/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.212:8003/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.212:8003/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.212:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.212:8004/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.212:8004/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.212:8004/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.212:8004/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.212:8004/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.212:8004/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.212:8004/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.212:8005/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.212:8005/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.212:8005/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.212:8005/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.212:8005/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.212:8005/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.212:8005/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.21:8001/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.21:8001/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.21:8001/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.21:8001/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.21:8001/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.21:8001/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.21:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.21:8002/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.21:8002/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.21:8002/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.21:8002/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.21:8002/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.21:8002/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.21:8002/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.21:8003/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.21:8003/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.21:8003/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.21:8003/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.21:8003/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.21:8003/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.21:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.21:8004/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.21:8004/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.21:8004/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.21:8004/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.21:8004/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.21:8004/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.21:8004/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.21:8005/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.21:8005/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.21:8005/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.21:8005/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.21:8005/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.21:8005/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.21:8005/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.54:8001/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.54:8001/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.54:8001/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.54:8001/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.54:8001/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.54:8001/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.54:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.54:8002/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.54:8002/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.54:8002/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.54:8002/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.54:8002/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.54:8002/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.54:8002/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.54:8003/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.54:8003/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.54:8003/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.54:8003/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.54:8003/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.54:8003/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.54:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.54:8004/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.54:8004/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.54:8004/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.54:8004/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.54:8004/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.54:8004/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.54:8004/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
+http://60.223.72.54:8005/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
+http://60.223.72.54:8005/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
+http://60.223.72.54:8005/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
+http://60.223.72.54:8005/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
+http://60.223.72.54:8005/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
+http://60.223.72.54:8005/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
+http://60.223.72.54:8005/rtp/226.0.2.99:8704
