@@ -10,5 +10,3 @@ http://ipipip/rtp/226.0.1.200:2006
 http://ipipip/rtp/226.0.1.81:2003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://ipipip/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
-http://ipipip/rtp/226.0.2.99:8704
